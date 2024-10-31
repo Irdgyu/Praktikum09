@@ -10,9 +10,9 @@ public class SearchNilai06 {
                 break;
             }
         }
+        
         System.out.println();
         System.out.println("Nilai " + key + " ketemu di indeks ke-" + hasil);
         System.out.println();
     }
 }
-
