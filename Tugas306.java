@@ -21,9 +21,9 @@ public class Tugas306 {
                 }
             }
             if (temukan) {
-                System.out.println("Makanan/minuman " + cariMenu + " tersedia didalam menu.");
+                System.out.println(cariMenu + " tersedia didalam menu.");
             } else {
-                System.out.println("Maaf, " + cariMenu + " tidak tersedia didalam menu. Silakan coba lagi.");
+                System.out.println("Mohon maaf, " + cariMenu + " tidak tersedia didalam menu. Silakan coba lagi.");
             }
         } while (!temukan);
 
