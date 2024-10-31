@@ -15,3 +15,4 @@ public class SearchNilai06 {
         System.out.println();
     }
 }
+
